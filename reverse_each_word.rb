@@ -10,4 +10,3 @@ reversed = sentence.split
 #answer.join(" ")
 reversed.collect { |word| word.reverse }.join(" ")
 end
-
